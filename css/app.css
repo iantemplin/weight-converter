@@ -1,0 +1,28 @@
+body {
+    margin-top: 50px;
+    background-color: beige;
+}
+
+.converted-text {
+    margin-left: 5px;
+    color: gray;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+#gramsOutput {
+    margin-left: 5px;
+    color: gray;
+}
+
+#kgOutput {
+    margin-left: 5px;
+    color: gray;
+}
+
+#ozOutput {
+    margin-left: 5px;
+    color: gray;
+}
